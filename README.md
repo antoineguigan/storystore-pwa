@@ -4,7 +4,7 @@
 
 # StoryStore PWA
 
-https://pwa.storystore.dev
+https://pwa-cloud.storystore.dev/
 
 ## Versions
 
